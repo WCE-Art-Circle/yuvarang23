@@ -234,7 +234,7 @@ export default class extends Component {
               <NavLink href="/home">home</NavLink>
             </NavItem>
             <NavItem className="nav-item-n">
-              <NavLink href="#">Events</NavLink>
+              <NavLink href="/events">Events</NavLink>
             </NavItem>
             <NavItem className="nav-item-n">
               <NavLink href="#">About us</NavLink>

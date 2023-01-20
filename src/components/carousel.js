@@ -69,7 +69,7 @@ function Carousel1() {
             data={data}
             time={2000}
             width="100em"
-            height="600px"
+            height="500px"
             captionStyle={captionStyle}
             radius="30px"
             slideNumberStyle={slideNumberStyle}
@@ -84,7 +84,7 @@ function Carousel1() {
             style={{
               textAlign: "center",
               maxWidth: "100em",
-              maxHeight: "600px",
+              maxHeight: "500px",
               margin: "40px auto",
             }}
           />

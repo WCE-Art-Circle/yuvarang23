@@ -1,21 +1,20 @@
-import React from 'react'
-import Header from '../components/header'
-import Nav from '../components/nav'
-import Carousel1 from '../components/carousel'
-import Sec1 from '../components/section-1'
-import Sec3 from '../components/section-3'
-import Footer from '../components/footer'
-
+import React from "react";
+import Header from "../components/header";
+import Nav from "../components/nav";
+import Carousel1 from "../components/carousel";
+import Sec1 from "../components/section-1";
+import Sec3 from "../components/section-3";
+import Footer from "../components/footer";
 
 const Home = () => {
   return (
     <div>
-         <Nav />
+      <Nav />
       <Header />
       <Sec1 />
-      <Carousel1/>
+      <Carousel1 />
       <Sec3 />
-      <Footer/>
+      <Footer />
       <style jsx global>{`
         .app-wrapper {
           font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
@@ -46,7 +45,7 @@ const Home = () => {
         }
       `}</style>
     </div>
-  )
-}
+  );
+};
 
-export default Home
+export default Home;
