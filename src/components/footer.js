@@ -65,11 +65,14 @@ const Footer = () => {
                   <a href="https://www.facebook.com/wceartcircle?mibextid=ZbWKwL">
                     <i class="fab fa-facebook-f " style={{fontSize:25}}></i>
                   </a>
-                  <a href="#">
+                  <a href="https://instagram.com/wce_artcircle?igshid=YmMyMTA2M2Y=">
                   <i class="fab fa-instagram" id="insta" aria-hidden="true"  style={{fontSize:25}}></i>
                   </a>
                   <a href="https://youtube.com/@wceartcircle">
                     <i class="fab fa-brands fa-youtube "  style={{fontSize:25}}></i>
+                  </a>
+                  <a href="https://www.linkedin.com/in/wce-art-circle">
+                    <i class="fab fa-brands fa-linkedin "  style={{fontSize:25}}></i>
                   </a>
                 </div>
             </div>
@@ -117,8 +120,8 @@ const Footer = () => {
             <div class="col-xl-6 col-lg-6 text-center text-lg-left">
               <div class="copyright-text">
                 <p>
-                  All Rights Reserved © WCE ART CIRCLE{" "}
-                  <a href="https://wceartcircle.github.io/">AC</a>
+                  All Rights Reserved ©
+                  <a href="https://wceartcircle.github.io/" target={"_blank"}>WCE ART CIRCLE{" "}</a>
                 </p>
               </div>
             </div>
