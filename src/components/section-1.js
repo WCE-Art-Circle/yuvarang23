@@ -44,6 +44,7 @@ export default () => {
           border-radius:20px;
           background-color:#F3F3F3;
             font-size: 16px;
+        
         }
       
         .s1-intro {

@@ -12,8 +12,8 @@ const Header = () => {
         </video>
         <h1 id='title'>युवारंग 2023</h1>
         <h3 id="subtitle" style={{marginTop:17,fontSize:24}}>Enjoy the youth full of colours</h3>
-        <div className="intro-button">
-          <a href="" style={{fontSize:20}}>Register</a>
+        <div className="intro-button" style={{marginBottom:40}}>
+          <a href="" style={{fontSize:20}} >Register</a>
         </div>
         {/* <div className="company-icons">
           <span className="company-icons__item">
@@ -68,8 +68,8 @@ const Header = () => {
             color:gray;
           }
           .intro-logo h1 {
-            font-size: 4em;
-            margin-top:0.8em
+            font-size: 2rem;
+            margin-top:0.3em
           }
         }
       }
